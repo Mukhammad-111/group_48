@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69c68f7f-1269-4ba5-b96f-e85cdb118aba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/group_48.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dz_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="69c68f7f-1269-4ba5-b96f-e85cdb118aba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,7 +113,7 @@
       <updated>1730552990782</updated>
       <workItem from="1730552996071" duration="11680000" />
       <workItem from="1730722944561" duration="25000" />
-      <workItem from="1730878001677" duration="1048000" />
+      <workItem from="1730878001677" duration="1304000" />
     </task>
     <servers />
   </component>

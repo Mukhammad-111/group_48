@@ -1,6 +1,3 @@
-from curses.textpad import rectangle
-
-
 class Figure:
     unit = 'см'
     def __init__(self):

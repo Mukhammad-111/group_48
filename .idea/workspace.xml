@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69c68f7f-1269-4ba5-b96f-e85cdb118aba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/dz_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dz_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/dz_2.py" afterDir="false" />
-    </list>
+    <list default="true" id="69c68f7f-1269-4ba5-b96f-e85cdb118aba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -174,6 +170,7 @@
       <workItem from="1731094616282" duration="692000" />
       <workItem from="1731133704166" duration="6565000" />
       <workItem from="1731143769839" duration="2000" />
+      <workItem from="1731144887562" duration="5714000" />
     </task>
     <servers />
   </component>
@@ -193,7 +190,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/group_48$dz_2.coverage" NAME="dz_2 Coverage Results" MODIFIED="1730915302709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/group_48$dz_3.coverage" NAME="dz_3 Coverage Results" MODIFIED="1731139941777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/group_48$dz_3.coverage" NAME="dz_3 Coverage Results" MODIFIED="1731152955817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/group_48$dz_1.coverage" NAME="dz_1 Coverage Results" MODIFIED="1730568921999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
